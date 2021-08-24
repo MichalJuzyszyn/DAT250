@@ -4,4 +4,5 @@
 - I followed the steps shown at [maven website](https://maven.apache.org/) to install maven. To verify that the installation was completed succesfully i used the "mvn -v" command in terminal to check the version of maven.
 - There were no issues during git installation. To verify if installation was succesfull i checked the version of git with "git --version" command.
 
-
+- No issues regarding installation of Heroku. Logged in to account through terminal without any problems.
+- 
