@@ -6,3 +6,9 @@
 ### Code to the solutions are placed in experiments folder
 
 ### I inspected the database by the usage of IntelliJ Ultimate edition's database tool.
+  - Todo database
+  ![Image of tododatabase](https://github.com/MichalJuzyszyn/DAT250/blob/main/experiments/screenshots/familyDBimg.PNG)
+  - Bank database
+  ![Image of bankdatabase](https://github.com/MichalJuzyszyn/DAT250/blob/main/experiments/screenshots/Bankdbimg.PNG)
+  
+### No pending issues with this assignment that i did not manage to solve.
